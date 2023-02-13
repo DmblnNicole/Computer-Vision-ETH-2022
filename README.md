@@ -10,8 +10,9 @@
 <img src="./Images/match_ratio.png" alt="matching" title="Feature matching" width="704" /> 
 
 **Image Classification with PyTorch**
-- Multi layer Perceptron, CNN, Resnet18
+- Multi layer Perceptron
 <img src="./Images/MLP.png" alt="mlp" title="MLP" width="350" />
+- CNN, Resnet18
 
 **Object Detection**
  - Bag-of-words classifier, HoG descriptor

@@ -12,6 +12,7 @@
 **Image Classification with PyTorch**
 - Multi layer Perceptron
 <img src="./Images/MLP.png" alt="mlp" title="MLP" width="350" />
+
 - CNN, Resnet18
 
 **Object Detection**

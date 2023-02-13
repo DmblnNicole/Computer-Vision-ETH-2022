@@ -31,7 +31,7 @@
 **Structure from Motion**
 - Essential matrix, Point Triangulation, Absolute Pose, Reconstruction
 
-<img src="./Images/image.png" alt="image" title="original image" width="350" />  <img src="./Images/SFM.png" alt="sfm" title="Structure from Motion" width="450" />
+<img src="./Images/image.png" alt="image" title="original image" width="350" />  <img src="./Images/SFM.png" alt="sfm" title="Structure from Motion" width="250" />
 
 **Model fitting with RANSAC**
 - 2D Line fitting with RANSAC

@@ -2,11 +2,11 @@
 
 **Local Features**
 
-- Harris corner detector
+- Harris corner detector: Computing image gradients, local auto-correlation matrix, Harris response function, non-maximum supression
 
 <img src="./Images/blocks_harris.png" alt="harris" title="Harris corner detector image 1" width="350" /> <img src="./Images/house_harris.png" alt="harris" title="Harris corner detector image 2" width="350" /> 
 
-- Feature matching
+- Feature matching: SSD one-way nearest neighbors, mutual neighbors and ratio testing
 <img src="./Images/match_ratio.png" alt="matching" title="Feature matching" width="704" /> 
 
 **Image Classification with PyTorch**
@@ -16,7 +16,7 @@
 - CNN, Resnet18
 
 **Object Detection**
- - Bag-of-words classifier, HoG descriptor
+ - Bag-of-words classifier: HoG descriptor, Codebook construction, Bag-of-words encoding, nearest neighbor classification
  - VGG Classifier
  
  **Image Segmentation**

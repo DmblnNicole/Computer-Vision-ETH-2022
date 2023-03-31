@@ -2,7 +2,7 @@
 
 **Local Features**
 
-- Harris corner detector: Computing image gradients, local auto-correlation matrix, Harris response function, non-maximum supression
+- Harris corner detector: Image gradients, local auto-correlation matrix, Harris response function, non-maximum supression
 
 <img src="./Images/blocks_harris.png" alt="harris" title="Harris corner detector image 1" width="350" /> <img src="./Images/house_harris.png" alt="harris" title="Harris corner detector image 2" width="350" /> 
 
@@ -26,7 +26,7 @@
  <img src="./Images/cow.jpg" alt="cow" title="cow" width="350" /> <img src="./Images/result.png" alt="result" title="result" width="350" />
  
  **Condensation Tracker**
- - CONDENSATION algorithm based on color histogram of the target object
+ - CONDENSATION algorithm based on color histogram of the target object: RGB color histogram, dynamic matrix for propagating particles, mean state estimation, resampling
 
 <img src="./Images/filter_1.png" alt="filter_1" title="Condensation tracker 1" width="350" /> <img src="./Images/filter_2.png" alt="filter 2" title="Condensation Tracker 2" width="350" />
 
